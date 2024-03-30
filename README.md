@@ -9,7 +9,7 @@ This tool to download book from fliphtml5
 5. os
 
 ### Installation
-1. Download manually here or clone this repository
+1. Download manually <a href="https://github.com/setiaone-tech/FlipHTML5-Downloader/archive/refs/heads/main.zip">here</a> or clone this repository
 2. open command prompt and install requirements.txt
    <br>=> pip install requirements.txt
 3. after that, running main program
